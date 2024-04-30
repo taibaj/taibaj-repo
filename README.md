@@ -1,2 +1,4 @@
 # taibaj-repo
-it is my first repo
+It is my first repository
+<br>
+Author:Taibaj
